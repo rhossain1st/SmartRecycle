@@ -1,29 +1,34 @@
 # SmartRecycle
 
 🌍 AI-Powered E-Waste Management System ♻️
+
 An innovative solution combining AI, Blockchain, and IoT to efficiently manage, track, and responsibly dispose of e-waste. Join the movement toward a cleaner, greener planet by making e-waste recycling smarter, more efficient, and rewarding!
 
-🚀 Key Features
+🚀 Key Features:
+
 AI Waste Sorting: Automatically classifies e-waste into recyclable and hazardous categories for efficient disposal.
 Blockchain Tracking: Secure tracking and rewards for responsible disposal.
 IoT Smart Bins: Real-time monitoring to optimize collection and prevent overflow.
 Certified Recycling Centers: E-waste processed at certified centers, ensuring sustainable practices.
 Incentives for Eco-Friendly Disposal: Rewards users for responsible recycling choices.
 
-🔧 Technologies Used
+🔧 Technologies Used:
+
 AI (Gemini APIs): Smart algorithms for accurate waste classification.
 Blockchain: Secure e-waste tracking and reward management.
 IoT: Real-time monitoring with sensor-based waste management.
 Cloud (Google IDX): Cloud hosting and collaboration for efficient system management.
 
-⚙️ How It Works
+⚙️ How It Works:
+
 Dispose E-Waste: Drop e-waste into smart, IoT-enabled bins.
 AI Classification: AI categorizes waste into recyclable or hazardous materials.
 Blockchain Tracking: Securely tracks e-waste and rewards responsible actions.
 Recycling Process: E-waste is routed to certified centers for eco-friendly recycling.
 Earn Rewards: Get rewarded for making responsible disposal choices.
 
-🌱 Why It Matters
+🌱 Why It Matters:
+
 E-waste disposal is a growing problem, with millions of tons improperly discarded each year, harming the environment. Our solution ensures that e-waste is processed responsibly, creating a more sustainable future. Plus, you’re rewarded for doing your part!
 
 
